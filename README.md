@@ -5,6 +5,6 @@ git clone https://github.com/NH-hackers/termux-extrakey
 
 cd termux-extrakey
 
-bash extrakey.sh
+bash extrakeys.sh
 
 # new keys
