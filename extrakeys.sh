@@ -39,6 +39,6 @@ unzip extrakeys.zip &> /dev/null;
 sleep 2
 echo -e "\e[1;32m ☯\e[32 lloading new keys.☞\e[0m";
 echo "";
-rm extrakeys.zip extrakeys.sh &> /dev/null;
+rm extrakeys.zip extrakeys.sh README.md &> /dev/null;
 termux-reload-settings
 exit 0
