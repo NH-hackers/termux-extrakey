@@ -1,6 +1,6 @@
 #!/bin/bash
 mkdir ~/.oldkey
-mv  ~/.termux/termux.properties ~/.oldkey
+cp ~/.termux/termux.properties ~/.oldkey
 
 clear
 printf " \e[1;32m
