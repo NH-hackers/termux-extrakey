@@ -1,3 +1,5 @@
+clear
+
 printf " \e[1;32m
 
  ██████╗ ██╗     ██████╗         
@@ -29,3 +31,5 @@ mv termux.properties ~/.termux &> /dev/null;
 sleep 2
 termux-reload-settings
 exit 0
+
+
